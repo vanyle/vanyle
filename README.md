@@ -17,7 +17,7 @@ I love programing and building great products. I focus on building fast UIs, red
 | Vectarine (closed source for now) | A game engine written in Nim with 2d and 3d support. | Nim, OpenGL, C, imgui | 2023 |
 | [Aiguillage](https://github.com/vanyle/aiguillage) | A super-lightweight Docker image for storing configuration data about apps. | Docker, Go, Typescript, React, SQLite | 2024 |
 | [Cartomancy.js](https://github.com/vanyle/Cartomancy) | A JS library for creating fantasy card games. | JavaScript, JSDoc | 2024 |
-
+| [Facteer.com](https://facteer.com) | A SaaS to know when your mails are read | Go, PostgreSQL, Docker, Typescript, React | 2025 |
 
 ## GitHub stats
 *Stats from public repositories only.*
