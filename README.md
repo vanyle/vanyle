@@ -14,7 +14,7 @@ I love programing and building great products. I focus on building fast UIs, red
 | [Pyflow](https://github.com/bycelium/Pyflow) | An interactive python editor with a graph layout. | Python, Qt | 2021 |
 | [ASG](https://github.com/vanyle/asg) | An **A**wesome **S**tatic website **G**enerator (like Hugo or Jekyll) with Lua templating, which I use for my blog. | Nim, Lua, C++ | 2022 - 2024 |
 | [NimPlus](https://github.com/vanyle/NimPlus/) | An Sublime Text extension for the Nim programming language | Python, Sublime Text | 2022 |
-| Vectarine (closed source for now) | A game engine written in Nim with 2d and 3d support. | Nim, OpenGL, C, imgui | 2023 |
+| [Vectarine](https://github.com/vanyle/vectarine/) | A game engine written in Rust with Luau scripting. | Rust, Luau, OpenGL, SDL | 2023 |
 | [Aiguillage](https://github.com/vanyle/aiguillage) | A super-lightweight Docker image for storing configuration data about apps. | Docker, Go, Typescript, React, SQLite | 2024 |
 | [Cartomancy.js](https://github.com/vanyle/Cartomancy) | A JS library for creating fantasy card games. | JavaScript, JSDoc | 2024 |
 | [Facteer.com](https://facteer.com) | A SaaS to know when your mails are read | Go, PostgreSQL, Docker, Typescript, React | 2025 |
