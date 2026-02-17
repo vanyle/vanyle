@@ -2,7 +2,7 @@
 
 I love programing and building great products. I focus on building fast UIs, reducing memory footprints and squeezing performance out of CPUs and GPUs.
 
-[📖 My blog](https://vanyle.facteer.com/)
+[📖 My blog](https://blog.facteer.com/)
 
 [✨ My portfolio website](https://vanyle.netlib.re/)
 
